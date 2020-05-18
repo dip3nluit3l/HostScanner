@@ -12,10 +12,10 @@ def parse_args():
     return parser.parse_args()
 
 def banner():
-    print('*******************************************')
-    print("*              LinuxElectrons             *")
-    print("*               Host Scanner              *")
-    print("*******************************************")
+    print('******************************************')
+    print("*              LinuxElectrons            *")
+    print("*               Host Scanner             *")
+    print("******************************************")
 
 def parse_url(url):
     try:
