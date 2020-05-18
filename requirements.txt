@@ -1,4 +1,2 @@
 requests
-time
 urllib3
-sys
