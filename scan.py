@@ -1,6 +1,5 @@
 
 import requests
-import time
 import urllib3
 import sys
 
@@ -17,7 +16,6 @@ def banner():
     print("*              LinuxElectrons             *")
     print("*               Host Scanner              *")
     print("*******************************************")
-    time.sleep(1)
 
 def parse_url(url):
     try:
